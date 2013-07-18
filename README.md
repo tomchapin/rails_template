@@ -9,4 +9,4 @@ This is basic starter template for a Ruby on Rails application.
 ## Features:
 - Configured for easy deployment on Heroku (using Unicorn)
 - Basic controller for static pages
-- "Garber-Irish" Controller/Action javascript routing and execution (see http://viget.com/inspire/extending-paul-irishs-comprehensive-dom-ready-execution for more information)
+- "Garber-Irish" Controller/Action javascript routing and execution (for more info, see: http://viget.com/inspire/extending-paul-irishs-comprehensive-dom-ready-execution)
